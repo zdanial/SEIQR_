@@ -1,8 +1,8 @@
 # SEIQR_: Python simulation code for "Three pre-vaccine responses to Covid-like epidemics"
-### Lai-Sang Young, Zach Danial
+### By Lai-Sang Young, Zach Danial
 
 
-To get started: 
+## To get started: 
 ```
 import numpy as np
 from SEIQR import SEIQR
