@@ -1,5 +1,5 @@
 # SEIQR_: Python simulation code for "Three pre-vaccine responses to Covid-like epidemics"
-### By Lai-Sang Young, Zach Danial
+#### By Lai-Sang Young, Zach Danial
 
 
 ## To get started: 
