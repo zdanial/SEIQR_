@@ -1,4 +1,4 @@
-# SEIQR_: Simulation code for "Three pre-vaccine responses to Covid-like epidemics"
+# SEIQR_: Python simulation code for "Three pre-vaccine responses to Covid-like epidemics"
 ### Lai-Sang Young, Zach Danial
 
 
